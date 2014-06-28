@@ -1,3 +1,5 @@
+include pkgng
+
 class tomcat7 {
 
     package{ 'tomcat7':
